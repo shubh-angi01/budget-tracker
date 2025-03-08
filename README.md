@@ -1,4 +1,4 @@
-# Pocket - Wallet Tracker
+# Pocket - Budget Tracker
 
 Pocket is a simple web application that helps users track their income, expenses, and overall balance. The application provides a clear summary of financial activities, allowing users to manage their finances efficiently.
 
@@ -21,5 +21,5 @@ Pocket is a simple web application that helps users track their income, expenses
 - **Local Storage**: Data is saved in the browser's local storage for persistence.
 
 ## How to use 
-git clone https://github.com/shubh-angi01/pocket.git
+git clone https://github.com/shubh-angi01/budget-tracker.git
 
